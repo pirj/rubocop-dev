@@ -1,0 +1,9 @@
+# bundler
+.bundle
+Gemfile.lock
+Gemfile.local
+
+/vendor
+
+.ruby-gemset
+.ruby-version
